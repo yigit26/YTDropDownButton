@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Yigit Can Ture' => 'yigit.ture@gmail.com' }
   s.source           = { :git => 'https://github.com/yigit26/YTDropDownButton.git', :tag => s.version.to_s }
   s.ios.deployment_target = '9.0'
-  s.source_files = 'YTDropDownButton/YTDropDownButton/Sources/**/*.{swift}'
+  s.source_files = 'YTDropDownButton/YTDropDownButton/Source/**/*.{swift}'
   s.module_name  = 'YTDropDownButton'
   s.requires_arc = true
   s.platform     = :ios, '9.0'
