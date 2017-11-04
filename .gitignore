@@ -1,0 +1,9 @@
+
+.DS_Store
+YTDropDownButton/.DS_Store
+YTDropDownButtonDemo/.DS_Store
+*.xcuserstate
+*.xcbkptlist
+YTDropDownButtonDemo/YTDropDownButtonDemo.xcodeproj/xcuserdata/*
+YTDropDownButton/YTDropDownButton.xcodeproj/xcuserdata/*
+YTDropDownButton.xcworkspace/xcuserdata/*
