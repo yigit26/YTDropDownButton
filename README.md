@@ -13,7 +13,8 @@ First of all import module
  import YTDropDownButton
 ```
 Then you can use like this :
-#via Code
+
+via Code
 
 ```swift
         let dropButtonCode = YTDropDownButton(frame: .zero)
@@ -35,6 +36,8 @@ Then you can use like this :
         dropButtonCode.centerXAnchor.constraint(equalTo: self.view.centerXAnchor).isActive = true
         
 ```
+
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
